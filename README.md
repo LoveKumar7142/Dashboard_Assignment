@@ -32,7 +32,7 @@ A **dynamic, interactive dashboard** built with **React** and **Redux Toolkit**,
   - Works on all screen sizes with grid layouts.  
 
 ---
-
+```
 ## 🏗 Project Structure
 
 dashboard-project/
@@ -62,3 +62,4 @@ dashboard-project/
 │
 ├─ vite.config.js
 └─ package.json
+```
